@@ -34,7 +34,7 @@ function loadHLSPlayer() {
     } catch (e) {}
 
     // Logika untuk channels.json
-    fetch('https://besoksenin.pages.dev/channels.json')
+    fetch('https://fasplay.pages.dev/ch.json')
       .then(response => response.json())
       .then(data => {
         const channel = data.channels.m3u8.find(ch => ch.name.toLowerCase() === hlsParam.toLowerCase());
