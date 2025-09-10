@@ -2,6 +2,22 @@
     "channels": {
       "m3u8": [
         {
+          "name": "court1",
+          "url": "https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629344116061_AiSD.m3u8?txSecret=f78251790f861715a362368b085ac9f6&txTime=68C202F0"
+        },
+        {
+          "name": "court2",
+          "url": "https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629499465061_AiHD.m3u8?txSecret=3fe099e9e2cdc2b2887163e56cb0c19b&txTime=68C202F0"
+        },
+        {
+          "name": "court3",
+          "url": "https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629631252061_AiSD.m3u8?txSecret=c53ea902a77feee06a41fe45f0695288&txTime=68C202F0"
+        },
+        {
+          "name": "court4",
+          "url": "https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629783901061_AiHD.m3u8?txSecret=fa4157f002d5e93f05549eb96e709bd3&txTime=68C202F0"
+        },
+        {
           "name": "teskilat",
           "url": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8"
         },
