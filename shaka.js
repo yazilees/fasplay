@@ -12,7 +12,7 @@ async function loadShakaPlayer() {
     // 2. Buat kontainer untuk player
     playerDiv.innerHTML = `
         <div id="video-container" style="width:100%; height:100%; ">
-            <video id="shaka-video-element" data-shaka-player="true" style="width:100%; height:100%;"></video>
+            <video id="shaka-video-element" poster="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkAc2WLyOsYwyDQYVift6ml5HUGIN9Y20NKeyR49ktgW4CWmC1R1amGtqP9qg2VdNiaaMjJXq4Y6vICxkhPKdbKOPGm6mzLa0t7bbV4XCDWybU9mNdLAt1gmSYQ8e3FPNloTgVCuqcRPBJp3b2iqI7Z2p4EKGSWlM5wEyut50V0S3_YMpNDdpG5-bFrCRf/s1600/1000000736.jpg" data-shaka-player="true" style="width:100%; height:100%;"></video>
         </div>
     `;
 
