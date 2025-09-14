@@ -3,7 +3,7 @@
       "m3u8": [
         {
           "name": "court1",
-          "url": "https://v4-17afc863e4e771f160cb6f614a52fb1c.livehwc4.com/pullhw.zhaoyangyang.cn/live/8828338_lhd.m3u8?edge_slice=true&auth_info=%2FQ0X41KPUC0fEyo6jaqRVWX9EdKEnJtKLEUt1N1s0eXIzya32glbg3r4Jjqc8Fw1.7478307532545a73304a7a6359566279&user_session_id=dfe6ad466f0fed13fd0fc56a7b7546f6&sub_m3u8=true"
+          "url": "https://v4-17afc863e4e771f160cb6f614a52fb1c.livehwc4.com/pullhw.zhaoyangyang.cn/live/8828338_lhd.m3u8?user_session_id=df4e6863eaa9d61af8e3be2a008b16c1&sub_m3u8=true&edge_slice=true&auth_info=v2uJdeRjg02xKew5OXPtzfeUwyPF05wGTWb3j6oDSbL3BInP6djidIL43%2BqmKAdg.785a705a41443337544e596973697265"
         },
         {
           "name": "court2",
