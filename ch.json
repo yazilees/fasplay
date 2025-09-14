@@ -94,7 +94,7 @@
           "name": "spo2",
           "url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
           "clearkeys": {
-            "7eea72d6075245a99ee3255603d58853": "6848ef60575579bf4d415db1032153ed"
+            "6848ef60575579bf4d415db1032153ed": "7eea72d6075245a99ee3255603d58853"
           }
         },
         {
