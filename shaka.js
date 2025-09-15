@@ -28,7 +28,7 @@ async function loadShakaPlayer() {
             throw new Error("Browser ini tidak mendukung Shaka Player.");
         }
 
-        const response = await fetch('https://besoksenin.pages.dev/channels.json');
+        const response = await fetch('https://fasplay.pages.dev/ch.json');
         if (!response.ok) throw new Error("Gagal memuat channels.json");
         const data = await response.json();
 
