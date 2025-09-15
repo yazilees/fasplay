@@ -417,7 +417,145 @@
     "clearkeys": {
         "034653d3413f23e87249d1fb7e68359a": "a0d6b849f17c430e9cc02d07739a4e4a"
     }
-}
-      ]
-    }
+},
+{
+  "name": "mewatch5",
+  "url": "https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd",
+  "clearkeys": {
+      "91b9592c819246c68b3b08a1fe08ba22": "fa0d80dfd865b34077bae44cd4a0c5e6"
   }
+},
+{
+  "name": "tnt1",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+  "clearkeys": {
+      "ae26845bd33038a9c0774a0981007294": "63ac662dde310cfb4cc6f9b43b34196d"
+  }
+},
+{
+  "name": "tnt2",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+  "clearkeys": {
+      "6d1708b185c6c4d7b37600520c7cc93c": "1aace05f58d8edef9697fd52cb09f441"
+  }
+},
+{
+  "name": "tnt3",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+  "clearkeys": {
+      "4e993aa8c1f295f8b94e8e9e6f6d0bfe": "86a1ed6e96caab8eb1009fe530d2cf4f"
+  }
+},
+{
+  "name": "tnt4",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+  "clearkeys": {
+      "e31a5a81caff5d07ea2411a571fc2e59": "96c5ef69479732ae734f962748c19729"
+  }
+},
+{
+  "name": "tnt5",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd",
+  "clearkeys": {
+      "60c0d9b41475e01db4ffb91ed557fbcc": "36ee40e58948ca15e3caba8d47b8f34b"
+  }
+},
+{
+  "name": "sportv",
+  "url": "https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+  "clearkeys": {
+      "4bbcff3289d457b4dd5dbdd21221de9a": "c4906b9a9f8dda3c0725bddb8c497733"
+  }
+},
+{
+  "name": "sportvsd",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd",
+  "clearkeys": {
+      "eaea45512d137def15b209a089cafd14": "8d42db746ed0c4df61729b0d68d42bd7"
+  }
+},
+{
+  "name": "sportvsd2",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+  "clearkeys": {
+      "9009b7189e3e68cc09d17811f2beb55a": "dd3f96a94c909da48ff40c92aabf8cf3"
+  }
+},
+{
+  "name": "sportv3",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+  "clearkeys": {
+      "902e5ec0e3d05e665daa32fc23f4f59e": "7b2322a273843921a43e2c61dac7cae3"
+  }
+},
+{
+  "name": "cazetv",
+  "url": "https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+  "clearkeys": {
+      "34475edab991ad5e92548aebd710410a": "501b209cccd323ac00bf5ac15b406cb4"
+  }
+},
+{
+  "name": "fubo",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+  "clearkeys": {
+    "dc69b6159a0f9f0a4e03b3ff91cbacd5": "d0dcbcd7723bc40df0bf34c9c092d51f"
+  }
+},
+{
+  "name": "fubo2",
+  "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
+  "clearkeys": {
+    "3dcfbec0e7146928baa55210bf2cb62f": "bc85f74f815d9be5ae1dd6defaa05135"
+  }
+},
+{
+  "name": "laliga",
+  "url": "https://cors.jugorder.de/https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+  "clearkeys": {
+    "620e51b82596475517a27aa425c52280": "2b9ba811e9c5aeafc8ae1b71cdca4d6a"
+  }
+},
+{
+  "name": "skylaliga",
+  "url": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
+  "clearkeys": {
+    "c88dc6c668cac3b468d4a4c7e176ff3d": "1aeb739de2c14ed0ad658ca8043208d8"
+  }
+},
+{
+  "name": "vsport1",
+  "url": "https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport1_hd_live/sm_viasport1_hd_live.isml/playlist.mpd",
+  "clearkeys": {
+    "a0e68f01a5428cbdb8cfac2080c66b20": "556d72c812df452fad9bed66292bfc63",
+    "a0e68f01a5428cbdb8cfac2080c66b10": "be7f9d1a00bbd0478335a4a48379157d"
+  }
+},
+{
+  "name": "vsport2",
+  "url": "https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport2_hd_live/sm_viasport2_hd_live.isml/playlist.mpd",
+  "clearkeys": {
+    "b62aca5b566dc3ded74233192b28a120": "e8c5369c9c4aa58c1c8489c7db52db8c",
+    "b62aca5b566dc3ded74233192b28a110": "143bfe648cc9d14917d41e0662452771"
+  }
+},
+{
+  "name": "vsport3",
+  "url": "https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport3_hd_live/sm_viasport3_hd_live.isml/playlist.mpd",
+  "clearkeys": {
+    "10827657b810ae957f6adc178eca9c20": "3f73e8c9b64b2972bd25859efef7e5ac",
+    "10827657b810ae957f6adc178eca9c10": "ca8605499cbdc8e0d2f12898258f8f6e"
+  }
+},
+{
+  "name": "vsportplus",
+  "url": "https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport_pluss_hd_live/sm_viasport_pluss_hd_live.isml/playlist.mpd",
+  "clearkeys": {
+    "5ac608b8804cec0453314a751cdf5f20": "2bfed47e32b19e4ecf3f0692876e4ce5",
+    "5ac608b8804cec0453314a751cdf5f10": "a01e1090ee4a41d57dff74a8703e17cf"
+  }
+}
+
+    ]
+  }
+}
