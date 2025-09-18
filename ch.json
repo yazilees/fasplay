@@ -22,6 +22,14 @@
           "url": "https://huolive-pull.yudeyd.com/live/sd-6MvXc3qAskr1v4ztdw.m3u8?expire=1758211934&sign=531bef5f479fec0710068d68b62d6d31"
         },
         {
+          "name": "lig2",
+          "url": "https://pullws-gsc.hxin99.com/live/dps-59298921-saturn-wsu.flv?wsSecret=793e85aafe3db5e9315aa939595e5b44&wsABSTime=68cc3e50"
+        },
+        {
+          "name": "lig3",
+          "url": "https://tfp93grhdrmtufa3uemttgwszy7mcpt5zgmm8qpt1h4dapfzd1qjqcpzs4.100ycdn.com/pullws-gsc.hxin99.com/live/dps-59298921-saturn-wsu/playlist.m3u8?wsSecret=f79a1759d64573b2b52105b0748c5135&wsABSTime=68cc3e50&wsSession=5ff2a939c34b2209c8a4e1db-175820149013625&wsIPSercert=6e4de212115cce620392ccf09880c6c2&wsiphost=local&wsBindIP=1"
+        },
+        {
           "name": "BAHRAINSP1",
           "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
         },
