@@ -3,7 +3,7 @@
       "m3u8": [
         {
           "name": "court1",
-          "url": "https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4006064645147061_AiSD.m3u8?txSecret=360e31fe2a8eaaa713d8e3ea640385a1&txTime=68CC8EF0"
+          "url": "https://v4-82ca4a54ad45c616f188ba4a0fdae0f2.livehwc4.com/pullhw.zhaoyangyang.cn/live/8829964_lhd.m3u8?user_session_id=d38225378dbc4469e2cc9b758d220891&auth_info=t44MTbNRBd6LlJ9yh%2FnO38CNg%2FrjSTOVu32a3InZOPWudE07xmM6kghV6v5PReQw.5672334a4c75524134556a596c687941&sub_m3u8=true&edge_slice=true"
         },
         {
           "name": "court2",
@@ -15,7 +15,7 @@
         },
         {
           "name": "court4",
-          "url": "https://v4-17afc863e4e771f160cb6f614a52fb1c.livehwc4.com/pullhw.zhaoyangyang.cn/live/8830332_lhd.m3u8?auth_info=DU0qhF%2FadrvqjVnUM12wG8Z%2BTLrETDj%2BmIEI%2F9hDCK6BOdxM5VTtjVexCaGO3a3k.67734a7850464e6d6b6e763655767951&sub_m3u8=true&user_session_id=ae22e6277c8e88bb5ceb3e5cc2937e8c&edge_slice=true"
+          "url": "https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4006064645147061_AiSD.m3u8?txSecret=360e31fe2a8eaaa713d8e3ea640385a1&txTime=68CC8EF0"
         },
         {
           "name": "teskilat",
